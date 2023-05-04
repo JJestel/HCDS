@@ -1,2 +1,5 @@
 - nice atmosphere and lecturers
-- it is a cool idea to learn the ethical part while implenting a DS project. But on the other hand we already work on a lot of DS projects in our studies, so maybe it would be just sufficient to talk/discuss the topics
+- it is a cool idea to learn the ethical part while implenting a DS project. 
+But on the other hand we already work on a lot of DS projects in our studies, 
+so maybe it would be just sufficient to talk/discuss the topics
+- approx. 2 hours

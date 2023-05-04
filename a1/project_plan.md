@@ -1,4 +1,8 @@
-## Topic 
+## Group members
+- Jascha Jestel 5547158
+- Mustafa Suman 5564676
+
+## Topic
 Investigate bicycle thefts in berlin.
 
 https://daten.berlin.de/datensaetze/fahrraddiebstahl-berlin
