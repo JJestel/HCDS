@@ -19,11 +19,15 @@ conda create -n env_name
 conda activate env_name
 ```
 
-Then use the package manager [pip](https://pip.pypa.io/en/stable/) to install pandas and requests.
+Then use the package manager [pip](https://pip.pypa.io/en/stable/) to install required packages.
 
 ```bash
 pip install pandas
+pip install numpy
 pip install requests
+pip install seaborn
+pip install plotly
+pip install pyproj
 ```
 To run Jupyter notebooks, you also need to install jupyter:
 
@@ -34,4 +38,4 @@ pip install notebook
 
 To run the code start up Jupyter in your prefered manner. If you have no experience with Jupyter notebooks the [Jupyter Documentation](https://docs.jupyter.org/en/latest/start/index.html) might help.
 
-When Jupyter is running, just open the notebook [data_collection.ipynb](data_collection.ipynb) and run all cells.
+When Jupyter is running, just open the notebook [bicycle_theft_berlin.ipynb](bicycle_theft_berlin.ipynb) and run all cells.
