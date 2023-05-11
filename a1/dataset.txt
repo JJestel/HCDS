@@ -1,0 +1,53 @@
+Who created the dataset?
+Veröffentlichende Stelle: Polizei Berlin LKA St 14
+Als Datenbasis dienen verlaufsstatische Daten aus dem Data Warehouse Führungsinformation (DWH-FI).
+
+
+For what purpose was the dataset created?
+purpose of creation is probably just the usual recoding of crime by the police.
+purpose of publishing it in the berlin data portal is: 
+Im Berliner Datenportal stellt das Land Berlin Datensätze der öffentlichen Verwaltung 
+zur Verfügung. So soll Verwaltungsmitarbeitern, Bürgern, Unternehmen und Wissenschaftlern 
+die Möglichkeit gegeben werden, über einen zentralen Einstiegspunkt auf Daten und 
+Informationen der Berliner Verwaltung zuzugreifen und diese weiterzuverwenden, 
+so dass durch neue Ideen sowie Kombination und Analyse neue Erkenntnisse aus 
+den vorhandenen Daten gewonnen werden können.
+
+
+Who funded the dataset creation?
+Polizei Berlin (LKA St 14)
+
+
+How was the dataset collected?
+
+
+
+How is the data sampled? Does the sampling make sense?
+Je erfasster Straftat wird ein Datensatz ausgegeben. Umfasst sind alle Fahrraddiebstähle und jene Keller- und Bodeneinbrüche, zu denen mindestens ein Fahrrad als erlangtes Gut eingetragen ist.
+Die Datenerhebung wird täglich durchgeführt. Sie umfasst alle Fälle die zwischen dem 1. Januar des Vorjahres und dem Vortag der Daten- abfrage polizeilich registriert wurden.
+
+
+Does the dataset make any assumptions?
+Were there data points that have been specifically left out?
+Um ein hinreichend genaue zeitliche Zuordnung zu ermöglichen werden Taten, bei denen die Differenz zwischen Tatzeitbeginn und Tatzeitende mehr als drei Tage (72 Stunden) beträgt, nicht bereitgestellt.
+
+
+Are there any known errors or inconsistencies in the dataset?
+
+
+
+Are there missing values?
+no
+
+
+Is the meaning behind every attribute in the dataset clear?
+Wie wir die TATZEIT ermittelt?
+Was bedeutet VERSUCH?
+
+
+Does the dataset contain metadata, e.g., a README file?
+there is a short dataset description @ https://daten.berlin.de/datensaetze/fahrraddiebstahl-berlin
+
+
+
+
