@@ -22,12 +22,7 @@ conda activate env_name
 Then use the package manager [pip](https://pip.pypa.io/en/stable/) to install required packages.
 
 ```bash
-pip install pandas
-pip install numpy
-pip install requests
-pip install seaborn
-pip install plotly
-pip install pyproj
+pip install -r requirements.txt
 ```
 To run Jupyter notebooks, you also need to install jupyter:
 
