@@ -2,6 +2,11 @@
 
 This project analyses bicycle thefts in Berlin in the context of the Module Human Centered Data Science at FU Berlin. More information on the task can be found in [project_plan.md](project_plan.md).
 
+
+## Data
+The underlying data is published on the [Berlin Open Data portal](https://daten.berlin.de/datensaetze/fahrraddiebstahl-berlin) by the berlin police, more details on that in [dataset.txt](dataset.txt). 
+
+
 ## Installation
 This project uses Python and Jupyter Notebooks - please use Python 3.7 or newer.
 
