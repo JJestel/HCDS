@@ -47,3 +47,14 @@ What does the VERSUCH (trial) column mean?
 Does the dataset contain metadata, e.g., a README file?
 there is a short dataset description @ https://daten.berlin.de/datensaetze/fahrraddiebstahl-berlin
 would be nice if more details here
+
+
+
+
+Did you think about any of these questions when you selected your dataset?
+Some, like, missing values, what do the columns mean, but not in such detail as in the first questions.
+
+
+Have your feelings about the documentation of your dataset changed now that you know the state of the documentation?
+It would be nice if the documentation of the selected dataset would be more comprehensive. 
+The dataset itself is pretty intuitve and easy to use.
