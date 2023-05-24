@@ -4,4 +4,3 @@ requests
 seaborn
 plotly
 pyproj
-notebook
